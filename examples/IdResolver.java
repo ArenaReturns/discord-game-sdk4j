@@ -1,5 +1,5 @@
-import de.jcm.discordgamesdk.Core;
-import de.jcm.discordgamesdk.CreateParams;
+import com.github.arenareturns.discordgamesdk.Core;
+import com.github.arenareturns.discordgamesdk.CreateParams;
 
 import java.io.*;
 import java.util.Scanner;

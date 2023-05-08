@@ -2,7 +2,7 @@ jdk:
     - openjdk16
 before_install:
     - source ~/.sdkman/bin/sdkman-init.sh
-    - sdk install java 16.0.2-open
+    - sdk install java 8.0.275.hs-adpt
 install:
     - source ~/.sdkman/bin/sdkman-init.sh
     - mvn install --show-version -DskipTests -Dmaven.javadoc.skip=true

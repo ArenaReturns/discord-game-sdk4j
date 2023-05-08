@@ -1,6 +1,6 @@
-import de.jcm.discordgamesdk.Core;
-import de.jcm.discordgamesdk.CreateParams;
-import de.jcm.discordgamesdk.activity.Activity;
+import com.github.arenareturns.discordgamesdk.Core;
+import com.github.arenareturns.discordgamesdk.CreateParams;
+import com.github.arenareturns.discordgamesdk.activity.Activity;
 
 import java.io.File;
 import java.io.IOException;

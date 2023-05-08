@@ -1,9 +1,9 @@
-import de.jcm.discordgamesdk.Core;
-import de.jcm.discordgamesdk.CreateParams;
-import de.jcm.discordgamesdk.DiscordEventAdapter;
-import de.jcm.discordgamesdk.RelationshipManager;
-import de.jcm.discordgamesdk.activity.Activity;
-import de.jcm.discordgamesdk.user.Relationship;
+import com.github.arenareturns.discordgamesdk.Core;
+import com.github.arenareturns.discordgamesdk.CreateParams;
+import com.github.arenareturns.discordgamesdk.DiscordEventAdapter;
+import com.github.arenareturns.discordgamesdk.RelationshipManager;
+import com.github.arenareturns.discordgamesdk.activity.Activity;
+import com.github.arenareturns.discordgamesdk.user.Relationship;
 
 import java.io.File;
 import java.io.IOException;

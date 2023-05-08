@@ -1,11 +1,11 @@
-import de.jcm.discordgamesdk.Core;
-import de.jcm.discordgamesdk.CreateParams;
-import de.jcm.discordgamesdk.DiscordEventAdapter;
-import de.jcm.discordgamesdk.RelationshipManager;
-import de.jcm.discordgamesdk.activity.ActivityType;
-import de.jcm.discordgamesdk.user.DiscordUser;
-import de.jcm.discordgamesdk.user.Relationship;
-import de.jcm.discordgamesdk.user.RelationshipType;
+import com.github.arenareturns.discordgamesdk.Core;
+import com.github.arenareturns.discordgamesdk.CreateParams;
+import com.github.arenareturns.discordgamesdk.DiscordEventAdapter;
+import com.github.arenareturns.discordgamesdk.RelationshipManager;
+import com.github.arenareturns.discordgamesdk.activity.ActivityType;
+import com.github.arenareturns.discordgamesdk.user.DiscordUser;
+import com.github.arenareturns.discordgamesdk.user.Relationship;
+import com.github.arenareturns.discordgamesdk.user.RelationshipType;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
@@ -17,7 +17,7 @@ import java.util.HashMap;
  * <p>Example to show a notification when a friend starts or stops playing a game.</p>
  * <p>This example makes use of the following components:
  * <ul>
- *     <li>{@link de.jcm.discordgamesdk.RelationshipManager}</li>
+ *     <li>{@link com.github.arenareturns.discordgamesdk.RelationshipManager}</li>
  * </ul></p>
  */
 public class FriendNotificationExample extends DiscordEventAdapter

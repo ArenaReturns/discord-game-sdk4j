@@ -1,6 +1,6 @@
 # discord-game-sdk4j
 
-[![](https://jitpack.io/v/JnCrMx/discord-game-sdk4j.svg)](https://jitpack.io/#JnCrMx/discord-game-sdk4j)
+[![](https://jitpack.io/v/ArenaReturns/discord-game-sdk4j.svg)](https://jitpack.io/#ArenaReturns/discord-game-sdk4j)
 
 This project provides Java bindings for the
 [Discord GameSDK](https://discordapp.com/developers/docs/game-sdk/sdk-starter-guide).
@@ -49,13 +49,13 @@ so I don't know how much progress I can make on them.
 
 #### Maven, Gradle and other build tools
 
-There are pre-compiled builds on [JitPack](https://jitpack.io/#JnCrMx/discord-game-sdk4j)
+There are pre-compiled builds on [JitPack](https://jitpack.io/#ArenaReturns/discord-game-sdk4j)
 together with instructions how to use them for all common build tools.
 
 #### Manual installation
 
 For projects not using any build tools, download a pre-compiled JAR-file (``discord-game-sdk4j-<version>.jar``)
-from the [releases page](https://github.com/JnCrMx/discord-game-sdk4j/releases).
+from the [releases page](https://github.com/ArenaReturns/discord-game-sdk4j/releases).
 
 If you want, you can also download the JavaDocs (``discord-game-sdk4j-<version>-javadoc.jar``) or
 the sources (``discord-game-sdk4j-<version>-sources.jar``).
@@ -67,7 +67,7 @@ attach sources or JavaDocs.
 
 To install the library from source first of all clone the repository:
 ```shell script
-git clone https://github.com/JnCrMx/discord-game-sdk4j.git
+git clone https://github.com/ArenaReturns/discord-game-sdk4j.git
 ```
 
 Finally build (and install) the library with Maven:
